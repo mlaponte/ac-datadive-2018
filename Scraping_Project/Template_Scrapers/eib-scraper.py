@@ -63,7 +63,7 @@ def get_project_documents(page):
         return None
 
 
-def scrape():
+def scrape(html):
     ## GET PROJECT TABLE
     df = get_project_table(html)
     ## GET URLS
@@ -95,7 +95,7 @@ def scrape():
             documents = get_project_documents(page)
             if documents:
                 for doc in documents.split(','):
-                    filepath = scraperutils.download_project_documents(doc)
+                    filepath = scraperutils.download_project_documents('http://' + doc)
             project_data.append([idx, clean(project_id), clean(filer), documents])
         else:
             count404 += 1
@@ -120,7 +120,7 @@ def run():
     base_url = "http://www.eib.org/about/accountability/complaints/cases/index.htm"
     html, sc = get_page_content(base_url)
 
-    df, info = scrape()
+    df, info = scrape(html)
     df['IAM'] = 'EIB'
     df['IAM ID'] = 29
     df['registration_start_date'] = df['Received Date'] ## This is in the AC code but may not be what they actually want. 
