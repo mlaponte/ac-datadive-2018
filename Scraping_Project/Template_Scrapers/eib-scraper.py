@@ -64,6 +64,68 @@ def get_project_documents(page):
         return None
 
 
+def to_date(date_str, format='%d/%m/%Y'):
+    timestamp = pd.to_datetime(date_str, format=format)
+    date = timestamp.date()
+    return date
+
+
+def is_date_str(val):
+    return (
+        isinstance(val, str) and val[-4:].isnumeric()
+        and len(val.split('/')) == 3
+    )
+
+
+def stage_dict_to_list(data):
+    index =  [
+        'date_filed',
+        'date_registered',
+        'eligibility',
+        'compliance_review_start_date',
+        'compliance_review_end_date',
+        'date_closed',
+        'monitoring',
+        'dispute_resolution_start_date'
+    ]
+    s = pd.Series(data, index=index)
+    return list(s.values)
+
+
+def scrape_stages(html):
+    ac_field_mapping = {
+        'Received Date': 'date_filed',
+        'Admissibility': 'date_registered',
+        'Assessment': 'eligibility',
+        'Investigation': 'compliance_review_start_date',
+        'Mediation': 'dispute_resolution_start_date',
+        'Consultation': 'compliance_review_end_date',
+        'Closed': 'date_closed',
+        'Follow Up': 'monitoring',
+        'Escalated to EO': 'escalated'
+    }
+    main_div = html.find('div', {'id': 'consultations'})
+    case_data = {}
+    try:
+        received_date = to_date(main_div.find(
+            'div', {'class': 'caseDate'}).contents[0])
+    except:
+        received_date = to_date(str(main_div).split(':')[2][1:11])
+    case_data['date_filed'] = received_date
+    sub_divs = main_div.find_all('div', {'class': 'statusBar'})
+    for sub_div in sub_divs:
+        label = sub_div.find('a').contents[0].split('\xa0')[0]
+        try:
+            val = sub_div.find('div', {'class': 'caseDate'}).contents[0]
+        except:
+            continue
+        if is_date_str(val):
+            val = to_date(val)
+        ac_field = ac_field_mapping[label]
+        case_data[ac_field] = val
+    return stage_dict_to_list(case_data)
+
+
 def scrape(html):
     ## GET PROJECT TABLE
     df = get_project_table(html)
