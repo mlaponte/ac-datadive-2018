@@ -167,6 +167,4 @@ def run():
 
 if __name__ == '__main__':
     formatted_data = run()
-    date = str(datetime.now())
-    pd.DataFrame(formatted_data).to_csv('eib_scrape_{}.csv'.format(date),
-                                        encoding='utf-8', index=False) 
+    scraperutils.write_csv('eib', formatted_data)

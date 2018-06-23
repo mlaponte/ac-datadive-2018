@@ -1,5 +1,6 @@
 import os
 import requests
+import pandas as pd
 from datamodel import Fields
 from collections import OrderedDict
 
@@ -19,16 +20,35 @@ def check_make_directory(project_id):
 
 def get_complete_project_row(project_details):
     """
-        Given a dictionary with the scraped information about a project, 
-        this util method creates a ordered dictionary with values,
-            if present in project_details else as None
+    Given a dictionary with the scraped information about a project, 
+    this util method creates a ordered dictionary with values,
+    if present in project_details else as None
             
-        This can be useful to store consistent set of fields for all scraped projects
+    This can be useful to store consistent set of fields for all scraped projects
     """
     project_row = OrderedDict()
     for field in list(Fields):
         project_row[field.name] = project_details.get(field.name)
     return project_row
+
+
+def write_csv(scraper_name, data):
+    """
+    Function to write out the list of OrderedDicts to a CSV using Pandas. Writes
+    to a file with scraper name and timestamp in the title.
+
+    Inputs
+    ------
+
+    scraper_name : str.
+                    Name of the scraper, i.e., the webiste. Example is 'eib'.
+
+    data : list.
+            List of OrderedDicts
+    """
+    date = str(datetime.now())
+    pd.DataFrame(data).to_csv('{}_scrape_{}.csv'.format(scraper_name, date),
+                              encoding='utf-8', index=False)  
 
 
 def download_project_documents(url, project_id):
