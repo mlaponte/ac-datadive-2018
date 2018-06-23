@@ -1,6 +1,7 @@
 from enum import Enum
 
 class Fields(Enum):
+	# part 1: General Project information
 	IAM = "IAM"
 	IAM_ID = "IAM_id"
 	YEAR = "year"
@@ -18,8 +19,11 @@ class Fields(Enum):
 	FILING_DATE = "filing_date"
 	ENVIRONMENTAL_CATEGORY = "enviromental_category"
 	COMPLAINT_STATUS = "compliant_status"
+	DATE_CLOSED = "date_closed"
+	# link to the project
+	HYPERLINK = "hyperlink"
 
-	# project life cycle stage information
+	# part 2 : project life cycle stage information
 	REGISTRATION_START_DATE = "registration_start_date"
 	REGISTRATION_END_DATE = "registration_end_date"
 	ELIGIBILITY_START_DATE = "eligibility_start_date"
@@ -30,11 +34,9 @@ class Fields(Enum):
 	COMPLIANCE_REVIEW_END_DATE = "compliance_review_end_date"
 	MONITORING_START_DATE = "monitoring_start_date"
 	MONITORING_END_DATE = "monitoring_end_date"
-
 	IS_COMPLIANCE_REPORT_ISSUED = "is_compliance_report_issued"
-	DATE_CLOSED = "date_closed"
-	# comma separate list of links to documents
+	
+	# part 3: comma separate list of links to documents
 	DOCUMENTS = "documents"
-	# link to the project
-	HYPERLINK = "hyperlink"
+
 
