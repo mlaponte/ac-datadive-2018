@@ -18,7 +18,7 @@ class Fields(Enum):
 	FILERS = "filers"
 	FILING_DATE = "filing_date"
 	ENVIRONMENTAL_CATEGORY = "enviromental_category"
-	COMPLAINT_STATUS = "compliant_status"
+	COMPLAINT_STATUS = "complaint_status"
 	DATE_CLOSED = "date_closed"
 	# link to the project
 	HYPERLINK = "hyperlink"

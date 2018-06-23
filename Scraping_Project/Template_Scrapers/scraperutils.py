@@ -27,7 +27,7 @@ def get_complete_project_row(project_details):
     """
     project_row = OrderedDict()
     for field in list(Fields):
-        project_row[field] = project_details.get(field)
+        project_row[field.name] = project_details.get(field.name)
     return project_row
 
 

@@ -121,6 +121,15 @@ def scrape(html):
 
 
 def run():
+    """
+    Run all the things.
+
+    Returns
+    ------
+
+    output_data : list
+                    List of OrderedDicts
+    """
     base_url = "http://www.eib.org/about/accountability/complaints/cases/index.htm"
     html, sc = get_page_content(base_url)
 
@@ -137,42 +146,27 @@ def run():
 	'Country/Territory'      :'COUNTRY'                 ,
 	'project id'             :'PROJECT_ID'              ,
 	'urls'                   :'HYPERLINK'               ,
-	'Filer(s)'               :'FILERS'                   ,
+	'Filer(s)'               :'FILERS'                  ,
 	'IAM'                    :'IAM'                     ,
 	'IAM ID'                 :'IAM_ID'                  ,
 	'registration_start_date':'REGISTRATION_START_DATE' ,
 	'Current Status'         :'COMPLAINT_STATUS'        ,  
 	'year'                   :'YEAR'                    ,
-	'documents'				 :'DOCUMENTS'
+	'documents'              :'DOCUMENTS'
     }
     output_df = df.copy()
     output_df = output_df.rename(columns = data_model_conforming)
 
+    output_data = []
+    for ix, r in output_df.iterrows():
+       temp = scraperutils.get_complete_project_row(r) 
+       output_data.append(temp)
 
-    output_cols = []
-    add_cols = []
-    for c in output_df.columns:
-        if c in Fields.__members__:
-            output_cols.append(c)
-	    
-    for c in Fields.__members__:
-        if c not in output_cols:
-            add_cols.append(c)
-
-
-    output_df = output_df[output_cols]
-
-    for c in add_cols:
-        output_df[c] = None
-
-
-    output_df = output_df[[i for i in Fields.__members__]]
-
-
-    output_df.columns= [Fields[i].value for i in output_df.columns]
-
-    date = str(datetime.now())
-    output_df.to_csv('eib_scrape_{}.csv'.format(date), encoding='utf-8') 
+    return output_data
+        
 
 if __name__ == '__main__':
-    run()
+    formatted_data = run()
+    date = str(datetime.now())
+    pd.DataFrame(formatted_data).to_csv('eib_scrape_{}.csv'.format(date),
+                                        encoding='utf-8', index=False) 
