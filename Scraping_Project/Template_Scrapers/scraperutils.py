@@ -16,3 +16,21 @@ def get_complete_project_row(project_details):
         project_row[field] = project_details.get(field)
     return project_row
 
+
+def download_project_documents(url):
+    """
+    Function to download PDF documents given a URL. Currently dumps files to
+    $PWD.
+
+    Copy-pasta from https://stackoverflow.com/a/16696317.
+    """
+    local_filename = url.split('/')[-1]
+    print('Downloading {}'.format(url))
+    # NOTE the stream=True parameter
+    r = requests.get(url, stream=True)
+    with open(local_filename, 'wb') as f:
+        for chunk in r.iter_content(chunk_size=1024): 
+            if chunk: # filter out keep-alive new chunks
+                f.write(chunk)
+                #f.flush() commented by recommendation from J.F.Sebastian
+    return local_filename
