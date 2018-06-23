@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 import scraperutils
 from datamodel import Fields
@@ -94,8 +95,11 @@ def scrape(html):
             #directory for now.
             documents = get_project_documents(page)
             if documents:
+                cleaned_id = project_id.replace('/', '_').replace(': ', '')
+                scraperutils.check_make_directory(cleaned_id)
                 for doc in documents.split(','):
-                    filepath = scraperutils.download_project_documents('http://' + doc)
+                    filepath = scraperutils.download_project_documents('http://' + doc,
+                                                                       cleaned_id)
             project_data.append([idx, clean(project_id), clean(filer), documents])
         else:
             count404 += 1
@@ -166,7 +170,9 @@ def run():
 
 
     output_df.columns= [Fields[i].value for i in output_df.columns]
-    output_df.to_csv('test_out.csv', encoding='utf-8') 
+
+    date = str(datetime.now())
+    output_df.to_csv('eib_scrape_{}.csv'.format(date), encoding='utf-8') 
 
 if __name__ == '__main__':
     run()
