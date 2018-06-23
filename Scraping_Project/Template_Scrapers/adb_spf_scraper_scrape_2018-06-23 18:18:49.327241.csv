@@ -1,0 +1,237 @@
+IAM,IAM_ID,YEAR,COUNTRY,PROJECT_NAME,PROJECT_ID,PROJECT_NUMBER,RELATED_PROJECT_NUMBER,PROJECT_TYPE,PROJECT_LOAN_AMOUNT,SECTOR,ISSUES,FILERS,FILING_DATE,ENVIRONMENTAL_CATEGORY,COMPLAINT_STATUS,DATE_CLOSED,HYPERLINK,REGISTRATION_START_DATE,REGISTRATION_END_DATE,ELIGIBILITY_START_DATE,ELIGIBILITY_END_DATE,DISPUTE_RESOLUTION_START_DATE,DISPUTE_RESOLUTION_END_DATE,COMPLIANCE_REVIEW_START_DATE,COMPLIANCE_REVIEW_END_DATE,MONITORING_START_DATE,MONITORING_END_DATE,IS_COMPLIANCE_REPORT_ISSUED,DOCUMENTS
+ADB-SPF,25,2018,Pakistan, Flood Emergency Reconstruction and Resilience Project,Pakistan: Flood Emergency Reconstruction and Resilience Project,49038-001,,['LoanTechnical Assistance'],,"Agriculture, natural resources and rural development;Transport",['Substandard reconstruction of road'],, 11 June 2018,,Active,,/projects/49038-001/main, 11 June 2018, 14 June 2018, 14 June 2018,,,,,,,,,
+ADB-SPF,25,2018,Pakistan, Peshawar Sustainable Bus Rapid Transit Corridor Project,Pakistan: Peshawar Sustainable Bus Rapid Transit Corridor Project,48289-001,,['Technical Assistance'],,Transport;Water and other urban infrastructure and services,"['Business loss/profit', 'Compensation']",, 10 May 2018,,Active,,/projects/48289-001/main, 10 May 2018, 15 May 2018, 15 May 2018,,,,,,,,,/sites/default/files/page/42458/pak-48289-001-complaint-form.pdf
+ADB-SPF,25,2018,Pakistan, National Highway Network Development in Balochistan Project,Pakistan: National Highway Network Development in Balochistan Project,47281-001,,['GrantLoan'],,Transport,"['Land ownership', 'Compensation']",, 6 April 2018,,Active,,/projects/47281-001/main, 6 April 2018, 11 April 2018, 11 April 2018,,,,,,,,,
+ADB-SPF,25,2018,Mongolia, Ulaanbaatar Urban Services and Ger Areas Development Investment Program - Tranche 1,Mongolia: Ulaanbaatar Urban Services and Ger Areas Development Investment Program - Tranche 1,45007-004,,['GrantLoan'],,Energy;Transport;Water and other urban infrastructure and services,"['Information and consultation', 'Land and property valuation']",, 28 March 2018,,Active,,https://www.adb.org/projects/45007-004/main, 28 March 2018, 2 April 2018, 2 April 2018,,,,,,,,,/sites/default/files/page/42458/mon-45007-004-complaint-form.pdf
+ADB-SPF,25,2018,Georgia, Adjaristsqali Hydropower Project,Georgia: Adjaristsqali Hydropower Project,47919-014,,,,Energy,"['Impacts of the project on the natural and social environment of the village', 'Village safety']",, 8 March 2018,,,,https://www.adb.org/projects/47919-014/main, 8 March 2018, 8 March 2018, 8 March 2018,,,,,,,,,
+ADB-SPF,25,2018,Bangladesh, SASEC Second Bangladesh-India Electrical Grid Interconnection Project,Bangladesh: SASEC Second Bangladesh-India Electrical Grid Interconnection Project,44192-016,,['Loan'],,Energy,"['High voltage transmission line crossing property', 'Health issues']",, 22 February 2018,,Active,,https://www.adb.org/projects/44192-016/main, 22 February 2018, 22 February 2018, 22 February 2018,,,,,,,,,/sites/default/files/page/42458/ban-44192-016-complaint-form.pdf
+ADB-SPF,25,2018,Armenia, Sustainable Urban Development Investment Program - Tranche 1,Armenia: Sustainable Urban Development Investment Program - Tranche 1,42417-023,,['Loan'],,Transport,"['Impact of road construction to property and people’s safety', 'Compensation']",, 12 February 2018,,Active,,https://www.adb.org/projects/42417-023/main, 12 February 2018, 15 February 2018, 15 February 2018,,,,,,,,,
+ADB-SPF,25,2018,Kazakhstan, Akmola Electricity Distribution Network Modernization and Expansion Project,Kazakhstan: Akmola Electricity Distribution Network Modernization and Expansion Project,46933-014,,,,Energy,['High cost of new equipment and connection fee to the grid network'],, 15 January 2018,,,,https://www.adb.org/projects/46933-014/main, 15 January 2018, 15 January 2018, 15 January 2018,,,,,,,,,/sites/default/files/page/42458/kaz-akmola-electricity-distribution-project-complaint-form.pdf
+ADB-SPF,25,2017,Bangladesh, Third Urban Governance and Infrastructure Improvement (Sector) Project – Additional Financing,Bangladesh: Third Urban Governance and Infrastructure Improvement (Sector) Project – Additional Financing,,,,,,"['Road construction', 'Tree Cutting']",, 25 October 2017,,,,, 25 October 2017, 27 October 2017, 27 October 2017,,,,,,,,,/sites/default/files/page/42458/ban-ugiip3-af-complaint-letter.pdf
+ADB-SPF,25,2017,Sri Lanka, Clean Energy and Network Efficiency Improvement Project,Sri Lanka: Clean Energy and Network Efficiency Improvement Project,,,,,,"['Alignment of transmission line going through houses and land', 'Health issues']",, 5 October 2017,,,,, 5 October 2017, 6 October 2017, 6 October 2017,,,,,,,,,
+ADB-SPF,25,2017,"
+Armenia"," Sustainable Urban Development Investment Program – Tranche 1
+","
+Armenia: Sustainable Urban Development Investment Program – Tranche 1
+",,,,,,"['Impact of road construction to property and people’s safety', 'Compensation']",, 5 September 2017,,,,, 5 September 2017, 6 September 2017, 6 September 2017,,,,,,,,,/sites/default/files/page/42458/arm-sudip-t1-complaint-letter.pdf
+ADB-SPF,25,2017,"
+Georgia"," Batumi Bypass Road Project
+","
+Georgia: Batumi Bypass Road Project
+",,,,,,"['Property and land valuation', 'Compensation']",, 24 August 2017,,,,, 24 August 2017, 28 August 2017, 28 August 2017,,,,,,,,,/sites/default/files/page/42458/geo-batumi-bypass-road-complaint-form.pdf
+ADB-SPF,25,2017,"
+Nepal"," Decentralized Rural Infrastructure and Livelihood Project – Additional Financing
+","
+Nepal: Decentralized Rural Infrastructure and Livelihood Project – Additional Financing
+",,,,,,"['Land donation', 'Compensation']",, 22 August 2017,,,,, 22 August 2017, 23 August 2017, 23 August 2017,,,,,,,,,/sites/default/files/page/42458/nep-drilp-af-complaint-form.pdf
+ADB-SPF,25,2017,"
+Sri Lanka"," Clean Energy and Network Efficiency Improvement Project
+","
+Sri Lanka: Clean Energy and Network Efficiency Improvement Project
+",,,,,,"['Alignment of transmission line differs from the approved path', 'No environmental Study for the new alignment']",, 16 August 2017,,,,, 16 August 2017, 17 August 2017, 17 August 2017,,,,,,,,,/sites/default/files/page/42458/sri-clean-energy-network-efficiency-complaint-form.pdf
+ADB-SPF,25,2017,"
+Georgia"," MFF-Sustainable Urban Transport Investment Program - Tranche 3
+","
+Georgia: MFF-Sustainable Urban Transport Investment Program - Tranche 3
+",,,,,,"['Loss of business', 'Compensation']",, 14 August 2017,,,,, 14 August 2017, 15 August 2017, 15 August 2017,,,,,,,,,
+ADB-SPF,25,2017,"
+Georgia"," MFF-Sustainable Urban Transport Investment Program - Tranche 3
+","
+Georgia: MFF-Sustainable Urban Transport Investment Program - Tranche 3
+",,,,,,"['Material harm due to road construction', 'Health issues']",, 10 July 2017,,,,, 10 July 2017, 10 July 2017, 10 July 2017,,,,,,,,,/sites/default/files/page/42458/geo-mff-sustainable-urban-transport-t3.pdf
+ADB-SPF,25,2017,"
+Sri Lanka"," Greater Colombo Wastewater Management Project
+","
+Sri Lanka: Greater Colombo Wastewater Management Project
+",,,,,,"['Vibration and noise', 'Damage to property', 'Health issue']",, 19 April 2017,,,,, 19 April 2017, 19 April 2017, 19 April 2017,,,,,,,,,/sites/default/files/page/42458/sri-greater-colombo-wastewater-mngt.pdf
+ADB-SPF,25,2017,"
+Georgia"," MFF-Sustainable Urban Transport Investment Program - Tranche 3 (Section 2, Part B of the Tbilisi-Rustavi Urban Road Link)
+","
+Georgia: MFF-Sustainable Urban Transport Investment Program - Tranche 3 (Section 2, Part B of the Tbilisi-Rustavi Urban Road Link)
+",,,,,,"['Evaluation of property', 'Land acquisition and Compensation']",, 10 April 2017,,,,, 10 April 2017, 11 April 2017, 11 April 2017,,,,,,,,,/sites/default/files/page/42458/geo-sustainable-urban-transport-t3.pdf
+ADB-SPF,25,2017,"
+Sri Lanka"," Greater Colombo Water and Wastewater Management Improvement Investment Program – Tranche 3
+","
+Sri Lanka: Greater Colombo Water and Wastewater Management Improvement Investment Program – Tranche 3
+",,,,,,"['Compensation', 'Resettlement', 'Consultation']",, 24 March 2017,,,,, 24 March 2017, 24 March 2017, 24 March 2017,,,,,,,,,/sites/default/files/page/42458/sri-greater-colombo-water-wastewater-mngt-t3.pdf
+ADB-SPF,25,2017,"
+Sri Lanka"," Green Power Development and Energy Efficiency Improvement Investment Program
+Sri Lanka","
+Sri Lanka: Green Power Development and Energy Efficiency Improvement Investment Program
+Sri Lanka: Green Power Development and Energy Efficiency Improvement Investment Program - Tranche 1
+",,,,,,"['Environmental and sociological impacts', 'Impact on people, livelihood and business']",, 31 Jan 2017,,,,, 31 Jan 2017, 1 Feb 2017, 1 Feb 2017,,,,,,,,,/sites/default/files/page/42458/sri-green-power-dev-complaint-form-31jan2017.pdf
+ADB-SPF,25,2016,"
+India"," Uttarakhand State-Road Investment Program – Tranche 3
+","
+India: Uttarakhand State-Road Investment Program – Tranche 3
+",,,,,,"['', 'Dust Pollution, health impacts, and road accidents due to construction delays', '', '', 'Lack of project monitoring', '']",, 25 Nov 2016,,,,, 25 Nov 2016, 28 Nov 2016, 28 Nov 2016,,,,,,,,,/sites/default/files/page/42458/india-uttarakhand-state-road-investment-program–tranche-3.pdf
+ADB-SPF,25,2016,"
+Georgia"," MFF Sustainable Urban Transport Investment Program - Tranche 2 (3rd section of Tbilisi-Rustavi Road)
+","
+Georgia: MFF Sustainable Urban Transport Investment Program - Tranche 2 (3rd section of Tbilisi-Rustavi Road)
+",,,,,,"['', 'Reimbursement of business investments', '', '', 'Compensation for loss of business', '']",, 17 Nov 2016,,,,, 17 Nov 2016, 17 Nov 2016, 17 Nov 2016,,,,,,,,,
+ADB-SPF,25,2016,"
+Georgia"," MFF Sustainable Urban Transport Investment Program - Tranche 2 (Section 3)
+","
+Georgia: MFF Sustainable Urban Transport Investment Program - Tranche 2 (Section 3)
+",,,,,,"['', 'Access to main road resulting to loss of business', '', '', 'Compensation', '']",, 9 Nov 2016,,,,, 9 Nov 2016, 9 Nov 2016, 9 Nov 2016,,,,,,,,,/sites/default/files/page/42458/geo-42414-033-complaint-en.pdf
+ADB-SPF,25,2016,"
+Georgia"," MFF Sustainable Urban Transport Investment - Program Tranche 3
+","
+Georgia: MFF Sustainable Urban Transport Investment - Program Tranche 3
+",,,,,,"['', 'Loss of business, compensation, and consultation', '']",," 27 May 2016
+English
+Georgian
+",,,,," 27 May 2016
+English
+Georgian
+", 30 May 2016, 30 May 2016,,,,,,,,,/sites/default/files/page/42458/geo-urban-transport-complaint-en.pdf
+ADB-SPF,25,2016,Georgia, MFF Sustainable Urban Transport Investment Program – Tranche 3,Georgia: MFF Sustainable Urban Transport Investment Program – Tranche 3,,,,,,['Compensation and resettlement'],," 28 Apr 2016
+English
+Georgian
+",,,,," 28 Apr 2016
+English
+Georgian
+", 28 Apr 2016, 28 Apr 2016,," 28 Sep 2016
+English
+Georgian
+",,,,,,,/sites/default/files/page/42458/geo-42414-043-complaint-english.pdf
+ADB-SPF,25,2016,Pakistan, MFF Power Distribution Enhancement Investment Program – Tranche 2,Pakistan: MFF Power Distribution Enhancement Investment Program – Tranche 2,,,,,,['Horizontal clearance for 132 Kv electric wire crossing properties and other structures'],, 18 Mar 2016,,,,, 18 Mar 2016, 21 Mar 2016, 21 Mar 2016,,,,,,,,,/sites/default/files/page/42458/pak-power-program-complaint.pdf
+ADB-SPF,25,2015,Nepal, Melamchi Water Supply Project,Nepal: Melamchi Water Supply Project,,,,,,['Repair of road used for pipe extension'],, 15 Jul 2015,,,,, 15 Jul 2015, 16 Jul 2015, 16 Jul 2015,,,,,,,,,/sites/default/files/page/42458/nep-melamchi-water-complaint-letter-15jul15.pdf
+ADB-SPF,25,2014,Nepal, Decentralized Rural Infrastructure and Livelihood Project,Nepal: Decentralized Rural Infrastructure and Livelihood Project,,,,,,"['Lack of information and consultation', 'Land acquisition', 'Compensation']",, 2 Dec 2014,,,,, 2 Dec 2014, 3 Dec 2014, 3 Dec 2014,,,,,,,,,/sites/default/files/page/42458/final-report-nep-complaint-loan2796-grant0267.pdf
+ADB-SPF,25,2014,Samoa, TAs 8481 and 7387 (SAM),Samoa: TAs 8481 and 7387 (SAM): Promoting Economic Use of Customary Land and Grant No. 0392 (SAM): Samoa Agribusiness Support Project,46436-002,,['Grant'],,"Agriculture, natural resources and rural development","['Lack of Consultation', 'Use of customary land', 'Inadequate environment and social due diligence', 'Disclosure of documents']",, 9 Sep 2014,,Active,,/projects/46436-002/main, 9 Sep 2014, 9 Sep 2014, 9 Sep 2014,, 24 Mar 2015,,,,,,,/sites/default/files/page/42458/complaints-sam-matais-sep14.pdf
+ADB-SPF,25,2014,Nepal, Secondary Towns Integrated Urban Environmental Improvement Project,Nepal: Secondary Towns Integrated Urban Environmental Improvement Project,36188-023,,['Loan'],,Transport;Water and other urban infrastructure and services,"['Lack of consultation', 'Non-provision of drinking water and irrigation facilities']",, 18 Feb 2014,,Active,,/projects/36188-023/main, 18 Feb 2014, 19 Feb 2014, 19 Feb 2014,,,,,,,,,/sites/default/files/page/42458/nep-complain-letter-feb-2014.pdf
+ADB-SPF,25,2013,Pakistan, Emergency Reconstruction Project,Pakistan: Emergency Reconstruction Project,,,,,,['Quality of reconstruction works'],, 9 Dec 2013,,,,, 9 Dec 2013, 9 Dec 2013, 9 Dec 2013,,,,,,,,,/sites/default/files/page/42458/complaint-letter-pak-emergency-reconstruction.pdf
+ADB-SPF,25,2013,Armenia, Zvartnots Airport Expansion Project (Phase 2),Armenia: Zvartnots Airport Expansion Project (Phase 2),43922-014,,,,Transport,"['Resettlement', 'Consultation', 'Information']",, 1 Aug 2013,,,,/projects/43922-014/main, 1 Aug 2013, 6 Aug 2013, 6 Aug 2013,,,,,,,,,/sites/default/files/page/42458/arm-2nd-complaint-1aug2013.pdf
+ADB-SPF,25,2013,Kyrgyz Republic, Loan 2755 (SF),Kyrgyz Republic: Loan 2755 (SF): CAREC Corridor 1 (Bishkek-Torugart Road) Project 3,42399-023,,['Loan'],,Transport,"['Environment', 'Information Sharing']",," 11 Jul 2013
+English
+Russian
+",,Closed,Completed,/projects/42399-023/main," 11 Jul 2013
+English
+Russian
+", 12 Jul 2013, 12 Jul 2013,,,,,,,,,/sites/default/files/page/42458/kgz-complaint-letter-carec-corridor-1-eng.pdf
+ADB-SPF,25,2013,Armenia, Zvartnots Airport Expansion Project (Phase 2),Armenia: Zvartnots Airport Expansion Project (Phase 2),43922-014,,,,Transport,"['Resettlement', 'Consultation', 'Information']",," 4 Jul 2013
+English
+Armenian
+",,,,/projects/43922-014/main," 4 Jul 2013
+English
+Armenian
+", 5 Jul 2013, 5 Jul 2013,,,,,,,,,/sites/default/files/page/42458/arm-zvartnots-complaint-letter-blocked-en.pdf
+ADB-SPF,25,2013,Cambodia, Rehabilitation of the Railway in Cambodia Project,Cambodia: Rehabilitation of the Railway in Cambodia Project,37269-023,,['GrantLoan'],,Transport,"['Resettlement', 'Compensation', 'Consultation']",," 26 Mar 2013
+English
+Khmer
+",,Closed,Completed,/projects/37269-023/main," 26 Mar 2013
+English
+Khmer
+", 27 Mar 2013, 27 Mar 2013,,,,,,,,,/sites/default/files/page/42458/cam-complaint-letter-english-26march2013.pdf
+ADB-SPF,25,2013,Cambodia, Rehabilitation of the Railway in Cambodia Project,Cambodia: Rehabilitation of the Railway in Cambodia Project,37269-023,,['GrantLoan'],,Transport,"['Resettlement', 'Compensation']",," 25 Feb 2013
+English
+Khmer
+",,Closed,Completed,/projects/37269-023/main," 25 Feb 2013
+English
+Khmer
+",,,,,,,,,,,/sites/default/files/page/42458/cam-3rd-complaint-final-english-letter.pdf
+ADB-SPF,25,2012,India, Kerala Sustainable Urban Development Project,India: Kerala Sustainable Urban Development Project,,,,,,"['Lack of Information', 'Environmental Impact', 'Village Infrastructure Affected', 'Lack of Consultation']",, 4 Sep 2012,,,,, 4 Sep 2012,,,,,,,,,,,
+ADB-SPF,25,2012,Cambodia, Rehabilitation of the Railway in Cambodia Project,Cambodia: Rehabilitation of the Railway in Cambodia Project,37269-023,,['GrantLoan'],,Transport,['Resettlement'],," 13 Apr 2012
+English
+Khmer
+",,Closed,Completed,/projects/37269-023/main," 13 Apr 2012
+English
+Khmer
+", 19 Apr 2012, 19 Apr 2012,,,,,,,,,/sites/default/files/page/42458/complaint-letter-en-cam-railway-2012.pdf
+ADB-SPF,25,2011,Kazakhstan, CAREC Transport Corridor I Investment Program,Kazakhstan: CAREC Transport Corridor I Investment Program,,,,,,['Environment'],, 20 Dec 2011,,,,, 20 Dec 2011, 21 Dec 2011, 21 Dec 2011,,,,,,,,,
+ADB-SPF,25,2011,Cambodia, Rehabilitation of the Railway in Cambodia Project,Cambodia: Rehabilitation of the Railway in Cambodia Project,37269-023,,['GrantLoan'],,Transport,"['Resettlement', 'Information', 'Consultation']",, 21 Nov 2011,,Closed,Completed,/projects/37269-023/main, 21 Nov 2011, 23 Nov 2011, 23 Nov 2011,, 17 Feb 2012,Completed,,,,,,/sites/default/files/page/42458/cam-complaint-letter-8feb2012.pdf
+ADB-SPF,25,2011,India, Kerala Sustainable Urban Development Project,India: Kerala Sustainable Urban Development Project,,,,,,"['Environmental Issues', 'Health Issues']",, 17 Oct 2011,,,,, 17 Oct 2011, 18 Oct 2011, 18 Oct 2011,,,,,,,,,/sites/default/files/page/42458/ind-complaint-registry-may-2011.pdf
+ADB-SPF,25,2011,Pakistan, Proposed MFF National Trade Corridor Highway Investment Program - Hasanabdal-Havelian Section (Project 2),Pakistan: Proposed MFF National Trade Corridor Highway Investment Program - Hasanabdal-Havelian Section (Project 2),40075-033,,['GrantLoan'],,Transport,"['Road alignment', 'Land acquisition']",, 6 Oct 2011,,Active,,/projects/40075-033/main, 6 Oct 2011, 11 Oct 2011, 11 Oct 2011,,,,,,,,,/sites/default/files/page/42458/pak-complaint-registry-april-2011.pdf
+ADB-SPF,25,2011,Philippines, Visayas Base-Load Power Project,Philippines: Visayas Base-Load Power Project,43906-014,,,,Energy,"['Consultation', 'Information', 'Environmental impact']",, 28 Feb 2011,,,,/projects/43906-014/main, 28 Feb 2011, 1 Mar 2011, 1 Mar 2011,, 28 Apr 2011,,,,,,,/sites/default/files/page/42458/phi-complaint-letter-28feb2011.pdf
+ADB-SPF,25,2011,India, North Eastern Region Capital Cities Development Investment Program,India: North Eastern Region Capital Cities Development Investment Program,35290-013,,['Loan'],,Water and other urban infrastructure and services,['Rights to Land'],, 4 Jan 2011,,Active,,/projects/35290-013/main, 4 Jan 2011, 10 Jan 2011, 10 Jan 2011,,,,,,,,,/sites/default/files/page/42458/ind-complaint-letter-4jan2011.pdf
+ADB-SPF,25,2011,Indonesia, Integrated Citarum Water Resources Management Investment Program,Indonesia: Integrated Citarum Water Resources Management Investment Program,37049-013,,['GrantLoanTechnical Assistance'],,Agriculture and Natural Resources,"['Resettlement', 'Compensation']",," 4 Jan 2011
+English
+Bahasa Indonesia
+",,Active,,/projects/37049-013/main," 4 Jan 2011
+English
+Bahasa Indonesia
+", 10 Jan 2011, 10 Jan 2011,," 23 Mar 2011
+English
+Bahasa Indonesia
+",,,,,,,/sites/default/files/page/42458/complaint-letter-3feb2011.pdf
+ADB-SPF,25,2010,Georgia, Sustainable Urban Transport Investment Program,Georgia: Sustainable Urban Transport Investment Program,,,,,,"['Information', 'Compensation']",," 27 Oct 2010
+English
+Georgian
+",,,,," 27 Oct 2010
+English
+Georgian
+", 5 Nov 2010, 5 Nov 2010,,,,,,,,,/sites/default/files/page/42458/geo-complaint-letter-11feb2011.pdf
+ADB-SPF,25,2010,Kyrgyz Republic, Southern Agriculture Area Development Project,Kyrgyz Republic: Southern Agriculture Area Development Project,31196-013,,['GrantLoan'],,"Agriculture, natural resources and rural development;Finance","['Information', 'Consultation / Participation']",, 28 Sep 2010,,Closed,Completed,/projects/31196-013/main, 28 Sep 2010, 5 Oct 2010, 5 Oct 2010,,,,,,,,,/sites/default/files/page/42458/kgz-complaint-saadp-letter-11feb2011.pdf
+ADB-SPF,25,2010,Kyrgyz Republic, Technical Assistance,Kyrgyz Republic: Technical Assistance: Regional Economic Integration in Central Asia – Stocktaking and Experience Sharing,43193-012,,['Technical Assistance'],,Public sector management,['Termination of Contract'],, 27 Sep 2010,,Closed,Completed,/projects/43193-012/main, 27 Sep 2010, 29 Sep 2010, 29 Sep 2010,,,,,,,,,
+ADB-SPF,25,2010,Kyrgyz Republic, CAREC Transport Corridor 1 (Bishkek-Torugart Road) Project 1,Kyrgyz Republic: CAREC Transport Corridor 1 (Bishkek-Torugart Road) Project 1,39674-022,,['Grant'],,Transport,['Compensation'],, 7 Sep 2010,,Closed,Completed,/projects/39674-022/main, 7 Sep 2010, 22 Sep 2010, 22 Sep 2010,," 14 Dec 2010
+English
+Kyrgyz
+Russian 
+",Completed,,,,,,/sites/default/files/page/42458/kgz-complaint-letters-11jan2011.pdf
+ADB-SPF,25,2010,Philippines, Power Sector Development Program,Philippines: Power Sector Development Program,,,,,,"['Electricity rates', 'Power sector reforms']",, 14 Sep 2010,,,,, 14 Sep 2010, 21 Sep 2010, 21 Sep 2010,,,,,,,,,/sites/default/files/page/42458/phi-power-sector-dev-program-complaint-letter.pdf
+ADB-SPF,25,2010,Tajikistan, Education Sector Reform Project,Tajikistan: Education Sector Reform Project,37175-013,,['GrantLoan'],,Education,"['Information', 'Consultation', 'School Reconstruction']",, 5 Aug 2010,,Closed,Completed,/projects/37175-013/main, 5 Aug 2010, 6 Aug 2010, 6 Aug 2010,, 27 Oct 2010,Completed,,,,,,/sites/default/files/page/42458/complaint-letter-taj-27sep2010.pdf
+ADB-SPF,25,2010,Kazakhstan, CAREC Transport Corridor I Investment Program,Kazakhstan: CAREC Transport Corridor I Investment Program,,,,,,"['Bus Stop', 'Underpass for agricultural machinery']",," 4 Jun 2010
+Kazakh
+English
+",,,,," 4 Jun 2010
+Kazakh
+English
+", 14 Jun 2010, 14 Jun 2010,,,,,,,,,/sites/default/files/page/42458/complaint-letter-4june2010-kk.pdf
+ADB-SPF,25,2009,Indonesia, Integrated Citarum Water Resources Management Investment Program,Indonesia: Integrated Citarum Water Resources Management Investment Program,,,,,,"['Information', 'Compensation']",, 8 Dec 2009,,,,, 8 Dec 2009, 11 Dec 2009, 11 Dec 2009,,,,,,,,,/sites/default/files/page/42458/ino-complain-letter.pdf
+ADB-SPF,25,2009,Kazakhstan, CAREC Transport Corridor I Investment Program,Kazakhstan: CAREC Transport Corridor I Investment Program,41121-023,,['Loan'],,Transport,"['Information', 'Participation', 'Cattle passes', 'Underpass for agricultural machinery']",, 5 Nov 2009,,Closed,Completed,/projects/41121-023/main, 5 Nov 2009, 10 Nov 2009, 10 Nov 2009,," 8 Feb 2010
+English
+Kazakh
+Russian
+",Completed,,,,,,/sites/default/files/page/42458/kaz-complaint-letter.pdf
+ADB-SPF,25,2009,Sri Lanka, National Highways Sector Project,Sri Lanka: National Highways Sector Project,38357-013,,['LoanTechnical Assistance'],,Transport,"['Land Acquisition', 'Compensation']",, 16 Sep 2009,,Closed,Completed,/projects/38357-013/main, 16 Sep 2009, 5 Oct 2009, 5 Oct 2009,,,,,,,,,/sites/default/files/page/42458/sri-complaint-letter.pdf
+ADB-SPF,25,2009,Azerbaijan, Multitranche Financing Facility Road Network Development Program,Azerbaijan: Multitranche Financing Facility Road Network Development Program,39176-013,,['Loan'],,Transport,"['Information', 'Resettlement']",, 3 Sep 2009,,Active,,/projects/39176-013/main, 3 Sep 2009, 4 Sep 2009, 4 Sep 2009,,,,,,,,,/sites/default/files/page/42458/aze-mffrndp-complaint-letter.pdf
+ADB-SPF,25,2009,Azerbaijan, East-West Highway Improvement Project,Azerbaijan: East-West Highway Improvement Project,35457-013,,['Loan'],,Transport,"['Consultation', 'Information', 'Resettlement']",, 2 Sep 2009,,Closed,Completed,/projects/35457-013/main, 2 Sep 2009, 3 Sep 2009, 3 Sep 2009,,,,,,,,,/sites/default/files/page/42458/aze-ewhip-complaint-letter.pdf
+ADB-SPF,25,2009,Pakistan, Rawalpindi Environmental Improvement Project (Water Supply Component),Pakistan: Rawalpindi Environmental Improvement Project (Water Supply Component),37003-013,,['Loan'],,Water and other urban infrastructure and services,['Loan Suspension'],, 13 Aug 2009,,Closed,Completed,/projects/37003-013/main, 13 Aug 2009, 13 Aug 2009, 13 Aug 2009,,,,,,,,,/sites/default/files/page/42458/reip-2nd-complaint.pdf
+ADB-SPF,25,2009,Pakistan, National Trade Corridor Highway Investment Program,Pakistan: National Trade Corridor Highway Investment Program,40075-013,,['GrantLoanTechnical Assistance'],,Transport,"['Compensation', 'Land Acquisition']",, 01 Jul 2009,,Active,,/projects/40075-013/main, 01 Jul 2009, 01 Jul 2009, 01 Jul 2009,,,,,,,,,/sites/default/files/page/42458/ntchip-complaint-letter2.pdf
+ADB-SPF,25,2009,Pakistan, Rawalpindi Environmental Improvement Project (Sewage Treatment Plant Component),Pakistan: Rawalpindi Environmental Improvement Project (Sewage Treatment Plant Component),37003-013,,['Loan'],,Water and other urban infrastructure and services,"['Land Acquisition', 'Compensation']",, 28 May 2009,,Closed,Completed,/projects/37003-013/main, 28 May 2009, 4 Jun 2009, 4 Jun 2009,," 24 Jul 2009
+English
+Urdu
+",Completed,,,,,,/sites/default/files/page/42458/reip-complaint-letter.pdf
+ADB-SPF,25,2009,Pakistan, National Trade Corridor Highway Investment Program,Pakistan: National Trade Corridor Highway Investment Program,40075-013,,['GrantLoanTechnical Assistance'],,Transport,['Compensation'],, 24 Apr 2009,,Active,,/projects/40075-013/main, 24 Apr 2009, 30 Apr 2009, 30 Apr 2009,,,,,,,,,/sites/default/files/page/42458/ntchip-complaint-letter1.pdf
+ADB-SPF,25,2009,Pakistan, North-West Frontier Province Road Development Sector and Subregional Connectivity,Pakistan: North-West Frontier Province Road Development Sector and Subregional Connectivity,36052-013,,['Loan'],,Transport,['Compensation'],, 9 Apr 2009,,Closed,Completed,/projects/36052-013/main, 9 Apr 2009, 30 Apr 2009, 30 Apr 2009,,,,,,,,,/sites/default/files/page/42458/di-khan-sarai-gambila-road-project.pdf
+ADB-SPF,25,2009,Pakistan, Southern Punjab Basic Urban Services Project,Pakistan: Southern Punjab Basic Urban Services Project,23213-013,,['Loan'],,Water and other urban infrastructure and services,"['Resettlement', 'Environment']",," 27 Feb 2009English
+Urdu
+",,Closed,Completed,/projects/23213-013/main," 27 Feb 2009English
+Urdu
+", 30 Apr 2009, 30 Apr 2009,," 2 Jul 2009English
+Urdu
+",Completed,,,,,,/sites/default/files/page/42458/spbusp-complaint-letter-english.pdf
+ADB-SPF,25,2009,India, Himachal Pradesh Clean Energy Development Investment Program,India: Himachal Pradesh Clean Energy Development Investment Program,41627-013,,['Loan'],,Energy,['Environmental Impact Assessment'],, 30 Jan 2009,,Active,,/projects/41627-013/main, 30 Jan 2009,,,,,,,,,,,/sites/default/files/page/42458/india-hpcedip-complaint-letter-jan09.pdf
+ADB-SPF,25,2009,People's Republic of China, Fuzhou Environmental Improvement Project,People's Republic of China: Fuzhou Environmental Improvement Project,35340-013,,['Loan'],,Water and other urban infrastructure and services,['Resettlement'],," 15 Jan 2009
+English
+Chinese
+",,Closed,Completed,/projects/35340-013/main," 15 Jan 2009
+English
+Chinese
+", 19 Jan 2009, 19 Jan 2009,," 23 Mar 2009
+English
+Chinese
+",Completed,,,,,,/sites/default/files/page/42458/fuzhou-project.pdf
+ADB-SPF,25,2007,Cambodia, Phnom Penh to Ho Chi Minh City Highway Project,Cambodia: Phnom Penh to Ho Chi Minh City Highway Project,30316-013,,['Loan'],,Transport,"['Compensation', 'Land Titling', 'Livelihood']",, 30 Jul 2007,,Approved,,/projects/30316-013/main, 30 Jul 2007, 6 Aug 2007, 6 Aug 2007,," 24 Oct 2007
+English
+Khmer
+",,,,,,,/sites/default/files/page/42458/cam-rar-final-25feb2011.pdf
+ADB-SPF,25,2007,Nepal, Urban and Environmental Improvement Project,Nepal: Urban and Environmental Improvement Project,32239-013,,['Loan'],,Finance;Health;Transport;Water and other urban infrastructure and services,"['Information', 'Consultation']",, 11 Jan 2007,,Closed,Completed,/projects/32239-013/main, 11 Jan 2007, 08 Feb 2007, 08 Feb 2007,,,,,,,,,/sites/default/files/page/42458/complaint-letter.pdf
+ADB-SPF,25,2006,Viet Nam, GMS Mekong Tourism Development Project,Viet Nam: GMS Mekong Tourism Development Project,35345-013,,['Loan'],,Industry and trade,"['Compensation', 'Information']",," 1 letter
+19 Dec 2006",,Closed,Completed,/projects/35345-013/main," 1 letter
+19 Dec 2006", 9 Jan 2007, 9 Jan 2007,,,,,,,,,
+ADB-SPF,25,2006,India, Assam Power Sector Development Project,India: Assam Power Sector Development Project,36318-013,,['Loan'],,Energy,['Procurement'],, 31 Oct 2006,,Closed,Completed,/projects/36318-013/main, 31 Oct 2006, registered and referred to relevant units in ADB, registered and referred to relevant units in ADB,,,,,,,,,
+ADB-SPF,25,2006,Pakistan, National Highway Development Sector Investment Program,Pakistan: National Highway Development Sector Investment Program,37559-023,,['Loan'],,Transport,"['Land acquisition and compensation', 'Resettlement', 'Information']",, 9 Sep 2006,,Closed,Completed,/projects/37559-023/main, 9 Sep 2006, 10 Jan 2007, 10 Jan 2007, establishing contact and fielding a pre-eligibility inquiry," 12 Mar 2007English
+Urdu
+",Completed,,,,,,/sites/default/files/page/42458/complaint-letter-2231-sf-pak.pdf
+ADB-SPF,25,2006,Nepal," Rural Electrification, Distribution and Transmission Project-Thankot-Chapagaun-Bhaktapur 132 kV Transmission Line","Nepal: Rural Electrification, Distribution and Transmission Project-Thankot-Chapagaun-Bhaktapur 132 kV Transmission Line",29471-013,,['Loan'],,Energy,"['Consultation', 'Compensation']",, 25 Apr 2006,,Closed,Completed,/projects/29471-013/main, 25 Apr 2006, 28 Apr 2006, 28 Apr 2006,,,,,,,,,
+ADB-SPF,25,2006,Bangladesh, Khulna-Jessore Drainage Rehabilitation Project,Bangladesh: Khulna-Jessore Drainage Rehabilitation Project,21087,,['Loan'],,,"['Agricultural production', 'Community Participation']",, 4 Jan 2006,,Closed,Completed,/projects/ln1289/main, 4 Jan 2006, 4 Jan 2006, 4 Jan 2006,,,,,,,,,
+ADB-SPF,25,2006,Pakistan, Chasma Right Bank Irrigation Project-Stage III,Pakistan: Chasma Right Bank Irrigation Project-Stage III,,,,,,"['Distributary link', 'Flooding']",, 14 Dec 2005,,,,, 14 Dec 2005, 15 Dec 2005, 15 Dec 2005, translations,,,,,,,,/sites/default/files/page/42458/pak-chasma-complaint.pdf
+ADB-SPF,25,2005,Indonesia, Community Empowerment for Rural Development Project,Indonesia: Community Empowerment for Rural Development Project,32367-013,,['Loan'],,"Agriculture, natural resources and rural development;Finance;Public sector management","['Village Infrastructure', 'Community Participation', 'Information Sharing']",, 21 Feb 2005,,Closed,Completed,/projects/32367-013/main, 21 Feb 2005, 9 Mar 2005, 9 Mar 2005,," 5 May 2005
+English
+Bahasa Indonesia
+",Completed,,,,,,/sites/default/files/page/42458/cerdp-final-rar.pdf
+ADB-SPF,25,2004,Philippines, Sixth Road Project,Philippines: Sixth Road Project,23233,,['Loan'],,,"['Consultation', 'Information', 'Business Income']",, 27 Sep 2004,,Closed,Completed,/projects/ln1473/main, 27 Sep 2004, 28 Sep 2004, 28 Sep 2004,,,,,,,,,
+ADB-SPF,25,2004,Sri Lanka, Southern Transport Development Project (STDP),Sri Lanka: Southern Transport Development Project (STDP),26522-013,,['Loan'],,Transport,"['Environmental Impact Assessment (EIA)', 'Social Impact Assessment (SIA)', 'Compensation and Resettlement']",, 9 Jun 2004,,Closed,Completed,/projects/26522-013/main, 9 Jun 2004, 16 Jun 2004, 16 Jun 2004,, 17 Sep 2004,Completed,,,,,,/sites/default/files/page/42458/conflict-management-report.pdf
+ADB-SPF,25,2004,Nepal, Melamchi Water Supply Project (MWSP),Nepal: Melamchi Water Supply Project (MWSP),31624-023,,['Loan'],,Water and other urban infrastructure and services,"['Access to information', 'Environmental Impact Assessment (EIA)', 'Land acquisition, compensation and resettlement', 'Indigenous peoples', 'Social Uplift Program', 'Agriculture', 'Forestry']",, 3 May 2004,,Active,,/projects/31624-023/main, 3 May 2004, 3 May 2004, 3 May 2004,, 25 Jun 2004,,,,,,,/sites/default/files/page/42458/review-report.pdf
